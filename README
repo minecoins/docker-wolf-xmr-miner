@@ -1,0 +1,5 @@
+# About this Repo
+
+This is the Git repo of the Docker [minecoins/wolf-xmr-miner](https://hub.docker.com/r/minecoins/wolf-xmr-miner/) image. See [the Docker Hub page](https://hub.docker.com/r/minecoins/wolf-xmr-miner/) for the full readme on how to use this Docker image.
+
+[wolf-xmr-miner](https://github.com/wolf9466/wolf-xmr-miner) is Wolf's OpenCL XMR Miner for AMD GPUs.
